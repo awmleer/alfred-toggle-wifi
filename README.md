@@ -2,4 +2,4 @@
 
 ### How to use
 
-Download [toggleWifi.alfredworkflow]() and import it into alfred.
+Download [toggleWifi.alfredworkflow](https://github.com/awmleer/alfredToggleWifi/raw/master/toggleWifi.alfredworkflow) and import it into alfred.
